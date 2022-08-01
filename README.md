@@ -1,3 +1,3 @@
-# Form-Validator
+# 50 Projects in 50 days
 
-Javascript Projects with Traversy
+Simple Javascript Projects
